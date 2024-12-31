@@ -1,3 +1,5 @@
+This is the final proyect of the course CS50 of Harvard University: https://pll.harvard.edu/course/cs50-introduction-computer-science
+
 # Face Recognition Application
 
 #### Video Demo:  <URL HERE>
